@@ -1,0 +1,14 @@
+C:\Users\CoreyWells\MyChangelogApp\bin\Debug\net9.0\MyChangelogApp.exe
+C:\Users\CoreyWells\MyChangelogApp\bin\Debug\net9.0\MyChangelogApp.deps.json
+C:\Users\CoreyWells\MyChangelogApp\bin\Debug\net9.0\MyChangelogApp.runtimeconfig.json
+C:\Users\CoreyWells\MyChangelogApp\bin\Debug\net9.0\MyChangelogApp.dll
+C:\Users\CoreyWells\MyChangelogApp\bin\Debug\net9.0\MyChangelogApp.pdb
+C:\Users\CoreyWells\MyChangelogApp\obj\Debug\net9.0\MyChangelogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CoreyWells\MyChangelogApp\obj\Debug\net9.0\MyChangelogApp.AssemblyInfoInputs.cache
+C:\Users\CoreyWells\MyChangelogApp\obj\Debug\net9.0\MyChangelogApp.AssemblyInfo.cs
+C:\Users\CoreyWells\MyChangelogApp\obj\Debug\net9.0\MyChangelogApp.csproj.CoreCompileInputs.cache
+C:\Users\CoreyWells\MyChangelogApp\obj\Debug\net9.0\MyChangelogApp.dll
+C:\Users\CoreyWells\MyChangelogApp\obj\Debug\net9.0\refint\MyChangelogApp.dll
+C:\Users\CoreyWells\MyChangelogApp\obj\Debug\net9.0\MyChangelogApp.pdb
+C:\Users\CoreyWells\MyChangelogApp\obj\Debug\net9.0\MyChangelogApp.genruntimeconfig.cache
+C:\Users\CoreyWells\MyChangelogApp\obj\Debug\net9.0\ref\MyChangelogApp.dll
