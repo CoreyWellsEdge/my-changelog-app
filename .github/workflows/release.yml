@@ -15,6 +15,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Set up Git user
+        run: |
+          git config --global user.name "CoreyWellsEdge"
+          git config --global user.email "corey.wells@edge2020.com.au"
+          
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
