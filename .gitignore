@@ -1,0 +1,16 @@
+# Ignore the changelog
+CHANGELOG.md
+
+# Ignore node_modules folder (for Node.js projects)
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore IDE or editor files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
